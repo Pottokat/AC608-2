@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 3
 Title ""
 Date ""
 Rev ""
@@ -13142,239 +13142,238 @@ B9 B0 68 66 5D D7 19 E1 DB DE FC E6 BB 9F F7 9C 5F 7E C7 3B 7E FD 7F FD E6 37 BC
 D3 43 BC 82 2B B8 4D F8 7F ED F8 0F 6D 3D 70 F6 C6 00 00 00 00 49 45 4E 44 AE 42 60 82 
 EndData
 $EndBitmap
-
-Text HLabel 2550 1200 0    50   BiDi ~ 0
+Text HLabel 1000 1200 0    50   BiDi ~ 0
 T14
-Text HLabel 2550 1220 0    50   BiDi ~ 0
+Text HLabel 1500 1220 0    50   BiDi ~ 0
 T15
-Text HLabel 2550 1240 0    50   BiDi ~ 0
+Text HLabel 2000 1240 0    50   BiDi ~ 0
 R16
-Text HLabel 2550 1260 0    50   BiDi ~ 0
+Text HLabel 2500 1260 0    50   BiDi ~ 0
 P15
-Text HLabel 2550 1280 0    50   BiDi ~ 0
+Text HLabel 1000 1280 0    50   BiDi ~ 0
 P16
-Text HLabel 2550 1300 0    50   BiDi ~ 0
+Text HLabel 1500 1300 0    50   BiDi ~ 0
 N15
-Text HLabel 2550 1320 0    50   BiDi ~ 0
+Text HLabel 2000 1320 0    50   BiDi ~ 0
 N16
-Text HLabel 2550 1340 0    50   BiDi ~ 0
+Text HLabel 2500 1340 0    50   BiDi ~ 0
 M15
-Text HLabel 2550 1360 0    50   BiDi ~ 0
+Text HLabel 1000 1360 0    50   BiDi ~ 0
 M16
-Text HLabel 2550 1380 0    50   BiDi ~ 0
+Text HLabel 1500 1380 0    50   BiDi ~ 0
 L15
-Text HLabel 2550 1400 0    50   BiDi ~ 0
+Text HLabel 2000 1400 0    50   BiDi ~ 0
 L16
-Text HLabel 2550 1420 0    50   BiDi ~ 0
+Text HLabel 2500 1420 0    50   BiDi ~ 0
 P11
-Text HLabel 2550 1440 0    50   BiDi ~ 0
+Text HLabel 1000 1440 0    50   BiDi ~ 0
 N11
-Text HLabel 2550 1460 0    50   BiDi ~ 0
+Text HLabel 1500 1460 0    50   BiDi ~ 0
 vdd3.3
-Text HLabel 2550 1480 0    50   BiDi ~ 0
+Text HLabel 2000 1480 0    50   BiDi ~ 0
 GND
-Text HLabel 2550 1500 0    50   BiDi ~ 0
+Text HLabel 2500 1500 0    50   BiDi ~ 0
 N12
-Text HLabel 2550 1520 0    50   BiDi ~ 0
+Text HLabel 1000 1520 0    50   BiDi ~ 0
 P14
-Text HLabel 2550 1540 0    50   BiDi ~ 0
+Text HLabel 1500 1540 0    50   BiDi ~ 0
 N14
-Text HLabel 2550 1560 0    50   BiDi ~ 0
+Text HLabel 2000 1560 0    50   BiDi ~ 0
 L13
-Text HLabel 2550 1580 0    50   BiDi ~ 0
+Text HLabel 2500 1580 0    50   BiDi ~ 0
 K16
-Text HLabel 2550 1600 0    50   BiDi ~ 0
+Text HLabel 1000 1600 0    50   BiDi ~ 0
 J15
-Text HLabel 2550 1620 0    50   BiDi ~ 0
+Text HLabel 1500 1620 0    50   BiDi ~ 0
 J16
-Text HLabel 2550 1640 0    50   BiDi ~ 0
+Text HLabel 2000 1640 0    50   BiDi ~ 0
 L14
-Text HLabel 2550 1660 0    50   BiDi ~ 0
+Text HLabel 2500 1660 0    50   BiDi ~ 0
 J14
-Text HLabel 2550 1680 0    50   BiDi ~ 0
+Text HLabel 1000 1680 0    50   BiDi ~ 0
 K15
-Text HLabel 2550 1700 0    50   BiDi ~ 0
+Text HLabel 1500 1700 0    50   BiDi ~ 0
 F16
-Text HLabel 2550 1720 0    50   BiDi ~ 0
+Text HLabel 2000 1720 0    50   BiDi ~ 0
 G15
 Text HLabel 2550 1740 0    50   BiDi ~ 0
 F15
-Text HLabel 2550 1760 0    50   BiDi ~ 0
+Text HLabel 1000 1760 0    50   BiDi ~ 0
 E16
-Text HLabel 2550 1780 0    50   BiDi ~ 0
+Text HLabel 1500 1780 0    50   BiDi ~ 0
 D16
-Text HLabel 2550 1800 0    50   BiDi ~ 0
+Text HLabel 2000 1800 0    50   BiDi ~ 0
 D15
 Text HLabel 2550 1820 0    50   BiDi ~ 0
 C16
-Text HLabel 2550 1840 0    50   BiDi ~ 0
+Text HLabel 1000 1840 0    50   BiDi ~ 0
 C15
-Text HLabel 2550 1860 0    50   BiDi ~ 0
+Text HLabel 1500 1860 0    50   BiDi ~ 0
 B16
-Text HLabel 2550 1880 0    50   BiDi ~ 0
+Text HLabel 2000 1880 0    50   BiDi ~ 0
 J13
 Text HLabel 2550 1900 0    50   BiDi ~ 0
 G16
-Text HLabel 2550 1920 0    50   BiDi ~ 0
+Text HLabel 1000 1920 0    50   BiDi ~ 0
 F8
-Text HLabel 2550 1940 0    50   BiDi ~ 0
+Text HLabel 1500 1940 0    50   BiDi ~ 0
 F13
-Text HLabel 2550 1960 0    50   BiDi ~ 0
+Text HLabel 2000 1960 0    50   BiDi ~ 0
 F14
 Text HLabel 2550 1980 0    50   BiDi ~ 0
 F9
-Text HLabel 2550 2000 0    50   BiDi ~ 0
+Text HLabel 1000 2000 0    50   BiDi ~ 0
 E11
-Text HLabel 2550 2020 0    50   BiDi ~ 0
+Text HLabel 1500 2020 0    50   BiDi ~ 0
 A9
-Text HLabel 2550 2040 0    50   BiDi ~ 0
+Text HLabel 2000 2040 0    50   BiDi ~ 0
 B9
 Text HLabel 2550 2060 0    50   BiDi ~ 0
 C9
-Text HLabel 2550 2080 0    50   BiDi ~ 0
+Text HLabel 1000 2080 0    50   BiDi ~ 0
 A8
-Text HLabel 2550 2100 0    50   BiDi ~ 0
+Text HLabel 1500 2100 0    50   BiDi ~ 0
 D9
-Text HLabel 2550 2120 0    50   BiDi ~ 0
+Text HLabel 2000 2120 0    50   BiDi ~ 0
 B8
 Text HLabel 2550 2140 0    50   BiDi ~ 0
 E1
-Text HLabel 2550 2160 0    50   BiDi ~ 0
+Text HLabel 1000 2160 0    50   BiDi ~ 0
 B1
-Text HLabel 2550 2180 0    50   BiDi ~ 0
+Text HLabel 1500 2180 0    50   BiDi ~ 0
 C2
-Text HLabel 2550 2200 0    50   BiDi ~ 0
+Text HLabel 2000 2200 0    50   BiDi ~ 0
 D1
 Text HLabel 2550 2220 0    50   BiDi ~ 0
 F3
-Text HLabel 2550 2240 0    50   BiDi ~ 0
+Text HLabel 1000 2240 0    50   BiDi ~ 0
 F2
-Text HLabel 2550 2260 0    50   BiDi ~ 0
+Text HLabel 1500 2260 0    50   BiDi ~ 0
 F1
-Text HLabel 2550 2280 0    50   BiDi ~ 0
+Text HLabel 2000 2280 0    50   BiDi ~ 0
 G5
 Text HLabel 2550 2300 0    50   BiDi ~ 0
 G2
-Text HLabel 2550 2320 0    50   BiDi ~ 0
+Text HLabel 1000 2320 0    50   BiDi ~ 0
 G1
-Text HLabel 2550 2340 0    50   BiDi ~ 0
+Text HLabel 1500 2340 0    50   BiDi ~ 0
 TCK
-Text HLabel 2550 2360 0    50   BiDi ~ 0
+Text HLabel 2000 2360 0    50   BiDi ~ 0
 TDI
 Text HLabel 2550 2380 0    50   BiDi ~ 0
 TMS
-Text HLabel 2550 2400 0    50   BiDi ~ 0
+Text HLabel 1000 2400 0    50   BiDi ~ 0
 vdd2.5
-Text HLabel 2550 2420 0    50   BiDi ~ 0
+Text HLabel 1500 2420 0    50   BiDi ~ 0
 TDO
-Text HLabel 2550 2440 0    50   BiDi ~ 0
+Text HLabel 2000 2440 0    50   BiDi ~ 0
 K5
 Text HLabel 2550 2460 0    50   BiDi ~ 0
 L4
-Text HLabel 2550 2480 0    50   BiDi ~ 0
+Text HLabel 1000 2480 0    50   BiDi ~ 0
 M6
-Text HLabel 2550 2500 0    50   BiDi ~ 0
+Text HLabel 1500 2500 0    50   BiDi ~ 0
 N3
-Text HLabel 2550 2520 0    50   BiDi ~ 0
+Text HLabel 2000 2520 0    50   BiDi ~ 0
 N5
 Text HLabel 2550 2540 0    50   BiDi ~ 0
 P3
-Text HLabel 2550 2560 0    50   BiDi ~ 0
+Text HLabel 1000 2560 0    50   BiDi ~ 0
 L7
-Text HLabel 2550 2580 0    50   BiDi ~ 0
+Text HLabel 1500 2580 0    50   BiDi ~ 0
 N6
-Text HLabel 2550 2600 0    50   BiDi ~ 0
+Text HLabel 2000 2600 0    50   BiDi ~ 0
 vdd1.2
 Text HLabel 2550 2620 0    50   BiDi ~ 0
 P6
-Text HLabel 2550 2640 0    50   BiDi ~ 0
+Text HLabel 1000 2640 0    50   BiDi ~ 0
 M7
-Text HLabel 2550 2660 0    50   BiDi ~ 0
+Text HLabel 1500 2660 0    50   BiDi ~ 0
 M8
-Text HLabel 2550 2680 0    50   BiDi ~ 0
+Text HLabel 2000 2680 0    50   BiDi ~ 0
 P8
 Text HLabel 2550 2700 0    50   BiDi ~ 0
 N8
-Text HLabel 2550 2720 0    50   BiDi ~ 0
+Text HLabel 1000 2720 0    50   BiDi ~ 0
 L8
-Text HLabel 2550 2740 0    50   BiDi ~ 0
+Text HLabel 1500 2740 0    50   BiDi ~ 0
 N9
-Text HLabel 2550 2760 0    50   BiDi ~ 0
+Text HLabel 2000 2760 0    50   BiDi ~ 0
 P9
 Text HLabel 2550 2780 0    50   BiDi ~ 0
 M10
-Text HLabel 2550 2800 0    50   BiDi ~ 0
+Text HLabel 1000 2800 0    50   BiDi ~ 0
 LVDS_TX1_N
-Text HLabel 2550 2820 0    50   BiDi ~ 0
+Text HLabel 1500 2820 0    50   BiDi ~ 0
 LVDS_TX1_P
-Text HLabel 2550 2840 0    50   BiDi ~ 0
+Text HLabel 2000 2840 0    50   BiDi ~ 0
 LVDS_TX2_N
 Text HLabel 2550 2860 0    50   BiDi ~ 0
 LVDS_TX2_P
-Text HLabel 2550 2880 0    50   BiDi ~ 0
+Text HLabel 1000 2880 0    50   BiDi ~ 0
 LVDS_TX3_N
-Text HLabel 2550 2900 0    50   BiDi ~ 0
+Text HLabel 1500 2900 0    50   BiDi ~ 0
 LVDS_TX3_P
-Text HLabel 2550 2920 0    50   BiDi ~ 0
+Text HLabel 2000 2920 0    50   BiDi ~ 0
 LVDS_RXCLK_N
 Text HLabel 2550 2940 0    50   BiDi ~ 0
 LVDS_RXCLK_P
-Text HLabel 2550 2960 0    50   BiDi ~ 0
+Text HLabel 1000 2960 0    50   BiDi ~ 0
 LVDS_TX4_N
-Text HLabel 2550 2980 0    50   BiDi ~ 0
+Text HLabel 1500 2980 0    50   BiDi ~ 0
 LVDS_TX4_P
-Text HLabel 2550 3000 0    50   BiDi ~ 0
+Text HLabel 2000 3000 0    50   BiDi ~ 0
 LVDS_TX5_N
 Text HLabel 2550 3020 0    50   BiDi ~ 0
 LVDS_TX5_P
-Text HLabel 2550 3040 0    50   BiDi ~ 0
+Text HLabel 1000 3040 0    50   BiDi ~ 0
 R1
-Text HLabel 2550 3060 0    50   BiDi ~ 0
+Text HLabel 1500 3060 0    50   BiDi ~ 0
 T2
-Text HLabel 2550 3080 0    50   BiDi ~ 0
+Text HLabel 2000 3080 0    50   BiDi ~ 0
 R3
 Text HLabel 2550 3100 0    50   BiDi ~ 0
 T3
-Text HLabel 2550 3120 0    50   BiDi ~ 0
+Text HLabel 1000 3120 0    50   BiDi ~ 0
 R4
-Text HLabel 2550 3140 0    50   BiDi ~ 0
+Text HLabel 1500 3140 0    50   BiDi ~ 0
 T4
-Text HLabel 2550 3160 0    50   BiDi ~ 0
+Text HLabel 2000 3160 0    50   BiDi ~ 0
 R5
 Text HLabel 2550 3180 0    50   BiDi ~ 0
 T5
-Text HLabel 2550 3200 0    50   BiDi ~ 0
+Text HLabel 1000 3200 0    50   BiDi ~ 0
 R6
-Text HLabel 2550 3220 0    50   BiDi ~ 0
+Text HLabel 1500 3220 0    50   BiDi ~ 0
 T6
-Text HLabel 2550 3240 0    50   BiDi ~ 0
+Text HLabel 2000 3240 0    50   BiDi ~ 0
 R7
 Text HLabel 2550 3260 0    50   BiDi ~ 0
 T7
-Text HLabel 2550 3280 0    50   BiDi ~ 0
+Text HLabel 1000 3280 0    50   BiDi ~ 0
 R8
-Text HLabel 2550 3300 0    50   BiDi ~ 0
+Text HLabel 1500 3300 0    50   BiDi ~ 0
 T8
-Text HLabel 2550 3320 0    50   BiDi ~ 0
+Text HLabel 2000 3320 0    50   BiDi ~ 0
 R9
 Text HLabel 2550 3340 0    50   BiDi ~ 0
 T9
-Text HLabel 2550 3360 0    50   BiDi ~ 0
+Text HLabel 1000 3360 0    50   BiDi ~ 0
 R10
-Text HLabel 2550 3380 0    50   BiDi ~ 0
+Text HLabel 1500 3380 0    50   BiDi ~ 0
 T10
-Text HLabel 2550 3400 0    50   BiDi ~ 0
+Text HLabel 2000 3400 0    50   BiDi ~ 0
 R11
 Text HLabel 2550 3420 0    50   BiDi ~ 0
 T11
-Text HLabel 2550 3440 0    50   BiDi ~ 0
+Text HLabel 1000 3440 0    50   BiDi ~ 0
 R12
-Text HLabel 2550 3460 0    50   BiDi ~ 0
+Text HLabel 1500 3460 0    50   BiDi ~ 0
 T12
-Text HLabel 2550 3480 0    50   BiDi ~ 0
+Text HLabel 2000 3480 0    50   BiDi ~ 0
 R13
 Text HLabel 2550 3500 0    50   BiDi ~ 0
 T13
-Text HLabel 2550 3520 0    50   BiDi ~ 0
+Text HLabel 1000 3520 0    50   BiDi ~ 0
 R14
 $EndSCHEMATC

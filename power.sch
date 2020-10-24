@@ -1,0 +1,130 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Regulator_Linear:LM1085-3.3 U?
+U 1 1 5FB879A3
+P 3300 1800
+F 0 "U?" H 3300 2042 50  0000 C CNN
+F 1 "LM1085-3.3" H 3300 1951 50  0000 C CNN
+F 2 "" H 3300 2050 50  0001 C CIN
+F 3 "http://www.ti.com/lit/ds/symlink/lm1085.pdf" H 3300 1800 50  0001 C CNN
+	1    3300 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP E?
+U 1 1 5FB879A9
+P 2650 2000
+F 0 "E?" H 2768 2046 50  0000 L CNN
+F 1 "470uF" H 2768 1955 50  0000 L CNN
+F 2 "" H 2688 1850 50  0001 C CNN
+F 3 "~" H 2650 2000 50  0001 C CNN
+	1    2650 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP E?
+U 1 1 5FB879AF
+P 3950 2000
+F 0 "E?" H 4068 2046 50  0000 L CNN
+F 1 "470uF" H 4068 1955 50  0000 L CNN
+F 2 "" H 3988 1850 50  0001 C CNN
+F 3 "~" H 3950 2000 50  0001 C CNN
+	1    3950 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Jack-DC J?
+U 1 1 5FB879B5
+P 1950 1900
+F 0 "J?" H 2007 2225 50  0000 C CNN
+F 1 "Jack-DC" H 2007 2134 50  0000 C CNN
+F 2 "" H 2000 1860 50  0001 C CNN
+F 3 "~" H 2000 1860 50  0001 C CNN
+	1    1950 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 1800 3950 1800
+Wire Wire Line
+	3950 1800 3950 1850
+Wire Wire Line
+	2250 1800 2650 1800
+Wire Wire Line
+	2650 1850 2650 1800
+Connection ~ 2650 1800
+Wire Wire Line
+	2650 1800 3000 1800
+$Comp
+L power:GND #PWR?
+U 1 1 5FB879C1
+P 3950 2450
+F 0 "#PWR?" H 3950 2200 50  0001 C CNN
+F 1 "GND" H 3955 2277 50  0000 C CNN
+F 2 "" H 3950 2450 50  0001 C CNN
+F 3 "" H 3950 2450 50  0001 C CNN
+	1    3950 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5FB879C7
+P 3950 1550
+F 0 "#PWR?" H 3950 1400 50  0001 C CNN
+F 1 "+3.3V" H 3965 1723 50  0000 C CNN
+F 2 "" H 3950 1550 50  0001 C CNN
+F 3 "" H 3950 1550 50  0001 C CNN
+	1    3950 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5FB879CD
+P 2650 1550
+F 0 "#PWR?" H 2650 1400 50  0001 C CNN
+F 1 "+5V" H 2665 1723 50  0000 C CNN
+F 2 "" H 2650 1550 50  0001 C CNN
+F 3 "" H 2650 1550 50  0001 C CNN
+	1    2650 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 1550 2650 1800
+Wire Wire Line
+	3950 1550 3950 1800
+Connection ~ 3950 1800
+Wire Wire Line
+	2250 2000 2300 2000
+Wire Wire Line
+	2300 2000 2300 2300
+Wire Wire Line
+	2300 2300 2650 2300
+Wire Wire Line
+	3950 2300 3950 2450
+Wire Wire Line
+	3950 2150 3950 2300
+Connection ~ 3950 2300
+Wire Wire Line
+	3300 2100 3300 2300
+Connection ~ 3300 2300
+Wire Wire Line
+	3300 2300 3950 2300
+Wire Wire Line
+	2650 2150 2650 2300
+Connection ~ 2650 2300
+Wire Wire Line
+	2650 2300 3300 2300
+$EndSCHEMATC
