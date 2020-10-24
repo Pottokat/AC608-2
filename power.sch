@@ -47,10 +47,10 @@ F 3 "~" H 3950 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Jack-DC J?
+L Connector:Jack-DC J2
 U 1 1 5FB879B5
 P 1950 1900
-F 0 "J?" H 2007 2225 50  0000 C CNN
+F 0 "J2" H 2007 2225 50  0000 C CNN
 F 1 "Jack-DC" H 2007 2134 50  0000 C CNN
 F 2 "" H 2000 1860 50  0001 C CNN
 F 3 "~" H 2000 1860 50  0001 C CNN
@@ -102,7 +102,7 @@ F 3 "" H 2650 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2650 1550 2650 1800
+	2650 1550 2650 1600
 Wire Wire Line
 	3950 1550 3950 1800
 Connection ~ 3950 1800
@@ -127,4 +127,19 @@ Wire Wire Line
 Connection ~ 2650 2300
 Wire Wire Line
 	2650 2300 3300 2300
+Text HLabel 2550 1600 0    50   Output ~ 0
+vdd5.0
+Text HLabel 4150 1800 2    50   Output ~ 0
+vdd3.3
+Text HLabel 4150 2300 2    50   Output ~ 0
+gnd
+Wire Wire Line
+	2550 1600 2650 1600
+Connection ~ 2650 1600
+Wire Wire Line
+	2650 1600 2650 1800
+Wire Wire Line
+	4150 1800 3950 1800
+Wire Wire Line
+	4150 2300 3950 2300
 $EndSCHEMATC
