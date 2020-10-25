@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 4
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "AC608 development kit"
+Date "2020-10-25"
+Rev "v1.0"
+Comp "Pavol Risa"
+Comment1 "https://github.com/risapav/ac608"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -207,7 +207,7 @@ Wire Wire Line
 Wire Wire Line
 	4100 4000 4100 4550
 $Bitmap
-Pos 9850 1950
+Pos 9750 2100
 Scale 1.000000
 Data
 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 02 0A 00 00 02 58 08 02 00 00 00 8C E5 59 

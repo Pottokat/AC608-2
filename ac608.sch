@@ -4,17 +4,17 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 4
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "AC608 development kit"
+Date "2020-10-25"
+Rev "v1.0"
+Comp "Pavol Risa"
+Comment1 "https://github.com/risapav/ac608"
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
 $Bitmap
-Pos 9650 1900
+Pos 10200 1650
 Scale 1.000000
 Data
 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 02 0A 00 00 02 58 08 02 00 00 00 8C E5 59 
@@ -13828,7 +13828,7 @@ $Sheet
 S 1700 1050 1000 6000
 U 5F94D5EB
 F0 "stamp_hole" 50
-F1 "fpga_stamp_hole.sch" 50
+F1 "stamp_hole.sch" 50
 F2 "T14" B L 1700 1100 50 
 F3 "T15" B L 1700 1200 50 
 F4 "R16" B L 1700 1300 50 
@@ -15191,6 +15191,8 @@ F 3 "" H 7700 2400 50  0001 C CNN
 	1    7700 2400
 	1    0    0    -1  
 $EndComp
+Text Notes 600  7700 0    50   ~ 0
+AC608_HDMI_V2
 Wire Bus Line
 	6800 3400 6800 5550
 Wire Bus Line

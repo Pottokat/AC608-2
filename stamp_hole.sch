@@ -4,17 +4,17 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 4
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "AC608 development kit"
+Date "2020-10-25"
+Rev "v1.0"
+Comp "Pavol Risa"
+Comment1 "https://github.com/risapav/ac608"
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
 $Bitmap
-Pos 10000 5350
+Pos 10200 1650
 Scale 1.000000
 Data
 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 02 0A 00 00 02 58 08 02 00 00 00 8C E5 59 
@@ -13385,6 +13385,30 @@ F 1 "W25Q32JVSS" H 8700 2490 50  0000 C CNN
 F 2 "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" H 8700 2000 50  0001 C CNN
 F 3 "http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf" H 8700 2000 50  0001 C CNN
 	1    8700 2000
+	1    0    0    -1  
+$EndComp
+Text Notes 700  7650 0    50   ~ 0
+AC608 v1.3
+$Comp
+L 2020-10-25_15-23-21:W9825G6EH-6 U?
+U 1 1 5F9E6213
+P 8100 3400
+F 0 "U?" H 9400 3787 60  0000 C CNN
+F 1 "W9825G6EH-6" H 9400 3681 60  0000 C CNN
+F 2 "WIN_TSOP-54_WIN" H 9400 3640 60  0001 C CNN
+F 3 "" H 8100 3400 60  0000 C CNN
+	1    8100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L 2020-10-25_15-19-51:W25Q16JVSNIQ U?
+U 1 1 5F9E8255
+P 7250 850
+F 0 "U?" H 8850 1337 60  0000 C CNN
+F 1 "W25Q16JVSNIQ" H 8850 1231 60  0000 C CNN
+F 2 "SOIC_150MIL_WIN" H 8850 1190 60  0001 C CNN
+F 3 "" H 7250 850 60  0000 C CNN
+	1    7250 850 
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
