@@ -13,15 +13,15 @@ Power supply: 3.3V / 500 mAh
 PCB: 4 layers, signal (top), power (MID), ground (MID),
 Signal download port: JTAG, without AS interface, directly write JIC file through JTAG interface
 
-## original drawings
+## Original drawings
 
-Original drawings are not available because china restriction on baidu
-if someone has availability to access into baidu and save original files, please let me know.
+Original drawings are not available because of china restriction on Baidu.
+If someone has an availability to access into Baidu and save original files, please let me know.
 
-baidu files are available here:
+Baidu files are available here:
 
 https://pan.baidu.com/s/1nr1ltR176O6WzxOW-aUumg
 
-Password :hkz2 
+Password: hkz2 
 
 Thx
