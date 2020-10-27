@@ -15193,6 +15193,8 @@ F 3 "" H 7700 2400 50  0001 C CNN
 $EndComp
 Text Notes 600  7700 0    50   ~ 0
 AC608_HDMI_V2
+Wire Wire Line
+	5400 4800 5150 4800
 Wire Bus Line
 	6800 3400 6800 5550
 Wire Bus Line
