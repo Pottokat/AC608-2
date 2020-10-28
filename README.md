@@ -1,5 +1,5 @@
 # ac608
-ac608 development kit
+AC608 development kit - homemade schematic in KiCad for cheap chinese FPGA kit
 
 ## FPGA core board
 AC608, FPGA core board, stamp hole, EP4CE22 / EP4CE15 / EP4CE10 fully compatible
