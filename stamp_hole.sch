@@ -13303,29 +13303,29 @@ P9
 Text HLabel 2550 2780 0    50   BiDi ~ 0
 M10
 Text HLabel 1000 2800 0    50   BiDi ~ 0
-LVDS_TX1_N
+J1
 Text HLabel 1500 2820 0    50   BiDi ~ 0
-LVDS_TX1_P
+J2
 Text HLabel 2000 2840 0    50   BiDi ~ 0
-LVDS_TX2_N
+K1
 Text HLabel 2550 2860 0    50   BiDi ~ 0
-LVDS_TX2_P
+K2
 Text HLabel 1000 2880 0    50   BiDi ~ 0
-LVDS_TX3_N
+L1
 Text HLabel 1500 2900 0    50   BiDi ~ 0
-LVDS_TX3_P
+L2
 Text HLabel 2000 2920 0    50   BiDi ~ 0
-LVDS_RXCLK_N
+M1
 Text HLabel 2550 2940 0    50   BiDi ~ 0
-LVDS_RXCLK_P
+M2
 Text HLabel 1000 2960 0    50   BiDi ~ 0
-LVDS_TX4_N
+N1
 Text HLabel 1500 2980 0    50   BiDi ~ 0
-LVDS_TX4_P
+N2
 Text HLabel 2000 3000 0    50   BiDi ~ 0
-LVDS_TX5_N
+P1
 Text HLabel 2550 3020 0    50   BiDi ~ 0
-LVDS_TX5_P
+P2
 Text HLabel 1000 3040 0    50   BiDi ~ 0
 R1
 Text HLabel 1500 3060 0    50   BiDi ~ 0
